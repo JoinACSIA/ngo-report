@@ -1,7 +1,7 @@
 
 # Paris Nonprofit Sector Report
 
-## American Center for Strategic and International Affairs (ACSIA)^[Khalid Al-Jufairi, PhD, ACSIA Co-founder, Email: khalid@acsia.eu; Gabrielle Childs, PhD candidate, American Graduate School in Paris, Email: g.childs@ags.edu; Zachary Hadley, PhD candidate, American Graduate School in Paris, Email: z.hadley@ags.edu; Brandon Roddey, MA, ACSIA Scholar in Residence, Email: brandon@joinACSIA.org]
+## American Center for Strategic and International Affairs (ACSIA)
 
 
 ## Acknowledgements 
