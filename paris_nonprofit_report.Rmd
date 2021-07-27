@@ -9,9 +9,6 @@ output:
     theme: cerulean
     fig_retina: true
     fig_caption: true
-params: 
-   set_title: "index"
-title: "`r params$set_title`"
 ---
 ```{r setup, include=FALSE, warning=FALSE}
 library(knitr)
