@@ -25,9 +25,8 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ~/Library/Application Support/renv
-          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-renv-
+          key: r-${{ hashFiles('renv.lock') }}
+          restore-keys: r-
 
       - name: Install packages
         run: |

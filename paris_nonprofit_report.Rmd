@@ -117,7 +117,7 @@ During the sample period, the **Environmental** sector remained the NGO leader f
 
 
 ```{r, echo=FALSE, fig.cap="Figure 1: Environmental social media interaction trends, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-#knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/environment_intel.PNG")
+knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/environment_intel.PNG")
 ```
 
 During 2020, link sharing and photos accounted for approximately **69.52%** of total interactions on Facebook. With a monthly interaction rate of **0.85%**, the **Environmental** sector leads social media interactions across the greater Paris nonprofit sector. The greatest level of engagement took place between July and September 2020. As shown in Figure 2, we see the greatest growth in followers between March and May 2020 <span style="color: green;">(+83.5K; +3.84%)</span> and in September 2020 <span style="color: green;">(+30.5K; +1.22%)</span>. 
