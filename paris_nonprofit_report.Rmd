@@ -30,7 +30,7 @@ renv::init()
 
 ## Acknowledgements 
  
-TEST TEXTWe wish to thank our reviewers for their helpful comments and suggestions in the production of this first ACSIA NGO Community Report. We wish to thank the students from the American Graduate School in Paris NGO Course who helped identify the NGOs operating in Paris, France.
+We wish to thank our reviewers for their helpful comments and suggestions in the production of this first ACSIA NGO Community Report. We wish to thank the students from the American Graduate School in Paris NGO Course who helped identify the NGOs operating in Paris, France.
 
 ## What is a nonprofit sector report?
 
