@@ -23,7 +23,9 @@ library(DT)
 library(viridis)
 library(hrbrthemes)
 library(plotly)
+library(renv)
 knitr::opts_chunk$set(echo = TRUE)
+renv::init()
 ```
 
 ## Acknowledgements 
