@@ -117,13 +117,13 @@ During the sample period, the **Environmental** sector remained the NGO leader f
 
 
 ```{r, echo=FALSE, fig.cap="Figure 1: Environmental social media interaction trends, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/environment_intel.PNG")
+knitr::include_graphics("./images/environment_intel.PNG")
 ```
 
 During 2020, link sharing and photos accounted for approximately **69.52%** of total interactions on Facebook. With a monthly interaction rate of **0.85%**, the **Environmental** sector leads social media interactions across the greater Paris nonprofit sector. The greatest level of engagement took place between July and September 2020. As shown in Figure 2, we see the greatest growth in followers between March and May 2020 <span style="color: green;">(+83.5K; +3.84%)</span> and in September 2020 <span style="color: green;">(+30.5K; +1.22%)</span>. 
 
 ```{r, echo=FALSE, fig.cap="Figure 2: Environmental sector follower growth, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/environment_growth.PNG")
+knitr::include_graphics("./images/environment_growth.PNG")
 ```
 
 
@@ -132,7 +132,7 @@ knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapp
 In terms of reach, the **World Wildlife Fund (WWF-France)** has the greatest reach within Paris (**899,401** page followers) despite a low interaction rate with the public relative to its page followers (**0.291%** interaction rate; **573,657** total interactions). Relative to its reach, **PETA France** (**117,628** page followers) is a leader in total interactions with a highly engaged audience (**1.25M** total interactions, **2.785%** interaction rate). The growth rates for both nonprofits are within the median range compared to other environmental nonprofits. **WWF-France** excels at the use of video to spread awareness about its core mission. 
 
 ```{r, echo=FALSE, fig.cap="Figure 3: Top **WWF-France** post of 2020 showed rare footage of a snow leopard with cubs garnering more than **834.6K** total views with **6,935** shares.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/wwf_france.png")
+knitr::include_graphics("./images/wwf_france.png")
 ```
 
 
@@ -141,20 +141,20 @@ knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapp
 > “Let’s be frank: this is an historic win for climate justice. A French judge has ruled that climate inaction of the French State is illegal. This decision not only takes into consideration what scientists say and what people want from French public policies, but it should also inspire people all over the world to hold their governments accountable for climate change in their own courts.”
 
 ```{r, echo=FALSE, fig.cap="Figure 4: **Greenpeace** maximizes its viral reach through the use of 30-second video messages", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/greenpeace_fr.png")
+knitr::include_graphics("./images/greenpeace_fr.png")
 ```
 
 
 **PETA France** exhibited the highest interaction rates (**2.758%**) during 2020 suggestive of its core group of highly concentrated activists and supporters. 
 
 ```{r, echo=FALSE, fig.cap="Figure 5: **PETA France** most popular post in terms of total interactions during 2020 focused on the Egyptian Ministry of Tourism ban on dromedary and horseback rides at popular tourism sites.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/peta_france.png")
+knitr::include_graphics("./images/peta_france.png")
 ```
 
 Anti-poaching nonprofit **Wildlife Angel** led sector growth overall for 2020 <span style="color: green;">(+28.50%; +6,132)</span> in terms of page followers. **Wildlife Angel** is a French-Burkinabé Non Profit Organization specialised in organizing natural and wildlife parks protection, especially in Africa.
 
 ```{r, echo=FALSE, fig.cap="Figure 6: A **Wildlife Angel** post from 2020 highlighted illegal forestry activities in Gambia and Senegal for the Chinese furniture market triggered more than **1.1K** unique shares on its Facebook Page.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/wildlife_angel_france.png")
+knitr::include_graphics("./images/wildlife_angel_france.png")
 ```
 
 #### Environmental Sector Summary Features {.tabset .tabset-pills}
@@ -215,14 +215,14 @@ Despite the **Environmental** sector leading overall interactions for 2020, the 
 
 
 ```{r, echo=FALSE, fig.cap="Figure 1: Human Rights, Democracy and Governance interaction trends, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/human_rights_intel.PNG")
+knitr::include_graphics("./images/human_rights_intel.PNG")
 ```
 
 
 As shown in figure 1, total interactions during 2020 approached approximately **3.31M** interactions with an average monthly interaction of **254.4K** or **0.44%**. Link sharing and photos dominated the majority of interactions with the the highest activity between April and June 2020. The use of Facebook videos are garnered a significant amount of attention with more than **693.3K** interactions. As shown in figure 2, follower growth increased during the spring 2020 with a significant uptick in September and October 2020. Both periods of increased activity occurred during the first and second COVID-19 waves within France. 
 
 ```{r, echo=FALSE, fig.cap="Figure 2: Human Rights, Democracy and Governance follower growth, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/human_rights_growth.png")
+knitr::include_graphics("./images/human_rights_growth.png")
 ```
 
 
@@ -231,7 +231,7 @@ knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapp
 **ATTAC France** *Association pour la Taxation des Transactions financières et pour l'Action Citoyenne* was categorized in the **Human Rights, Democracy, and Governance** sector despite its single issue focus on the establishment of a tax on foreign exchange transactions. Despite this single issue focus on asserting control over financial markets, it focused on the pursuance of anti-globalization policy and its inclusion within the category. 
 
 ```{r, echo=FALSE, fig.cap="Figure 3: The top **ATTAC France** shared post of 2020 highlighted the February 15, 2020 *#TousseEnPiste* protests at l'Aéroport de Chambéry.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/attac_france.png")
+knitr::include_graphics("./images/attac_france.png")
 ```
 
 During the protests, **ATTAC France** participated with other environmental NGOs including **Les Amis de la Terre** and **Extinction Rébellion France** in criticizing French President Emmanuel Macron's *virage écologique* or ecological turn in policy. 
@@ -239,27 +239,27 @@ During the protests, **ATTAC France** participated with other environmental NGOs
 **Amnesty International France**
 
 ```{r, echo=FALSE, fig.cap="Figure 4: A five minute video shared by Amnesty International France in May 2020, which focused on police brutality in France received more than **2.41M** views and was shared more than **58K** times.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris//amnesty_international_france.png")
+knitr::include_graphics("./images//amnesty_international_france.png")
 ```
 
 
 **Ligue des droits de l’Homme**
 
 ```{r, echo=FALSE, fig.cap="Figure 5: The **Ligue des droits de l’Homme** press release in November 2020 called for the French government to respect United Nations recommendations and international law concerning a controversial French national security bill.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/ldh_france.png")
+knitr::include_graphics("./images/ldh_france.png")
 ```
 
 **Survival International**
 
 ```{r, echo=FALSE, fig.cap="Figure 6: The top **Survival International** post of 2020 focused on the anniversary of the 1863 Bear River Massacre in Idaho. Although an international organization and focused on historical atrocities using the hashtag *#CrimesofColonialism* hints at the role of colonialism and atrocities in French history.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/survival_international.png")
+knitr::include_graphics("./images/survival_international.png")
 ```
 
 
 **La Cimade**
 
 ```{r, echo=FALSE, fig.cap="Figure 7: A **La Cimade** video from June 2020 argued for the regularization of undocumented foreigners within France. It was viewed more than **69.5K** times on the **La Cimade** Facebook Page.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/lacimade_france.png")
+knitr::include_graphics("./images/lacimade_france.png")
 ```
 
 #### Human Rights, Democracy and Governance Sector Features {.tabset .tabset-pills}
@@ -323,11 +323,11 @@ As the pandemic continues into its second year, vaccines have been developed and
 
 
 ```{r, echo=FALSE, fig.cap="Figure 1: Health sector interaction trends, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/health_intel.PNG")
+knitr::include_graphics("./images/health_intel.PNG")
 ```
 
 ```{r, echo=FALSE, fig.cap="Figure 2: Health sector follower growth, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/health_growth.PNG")
+knitr::include_graphics("./images/health_growth.PNG")
 ```
 
 #### Health Sector Leaders
@@ -339,7 +339,7 @@ The COVID-19 pandemic was the biggest health care issue worldwide but in France 
 **Medecins Sans Frontieres (MSF)** is an independent medical humanitarian organization that provides medical assistance worldwide to the most vulnerable populations who have been affected by conflict, disasters or excluded from receiving health care. MSF is guided by medical ethics and the principles of impartiality, independent and neutrality guide MSF (https://www.msf.org). The top posts by MSF in 2020 have focused on aspects of COVID awareness and medical intervention efforts by MSF.  
 
 ```{r, echo=FALSE, fig.cap="Figure 3: A Medecins Sans Frontieres post from June 2020 regarding the spread of COVID-19 in Brazil received the highest number of total interactions and overperformed all other MSF posts during 2020.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/msf_france.png")
+knitr::include_graphics("./images/msf_france.png")
 ```
 
 In June 2020, MSF called attention to Brazil and the rising number of cases approaching **1M** cases with no end in sight.  The post garnered the most interactions of all their 2020 posts. MSF also highlighted domestic activities. They shared a post where they provided primary care for the people living on the streets and urged a call to action for medical professionals to provide health care support to nursing homes in the region--primarily in Paris. This is quite striking since MSF has traditionally provided care in the most difficult and dire conditions in the international community. In 2021, MSF continues to highlight COVID-19 impact in vulnerable countries in the world and has also started to address COVID-19 vaccine equitability.  MSF posted a video in early March 2021 urging the international community to insure vaccine equitability in all countries.  The video garnered **236.9K** shares--the second highest video shared in the last fifteen months.  Vaccine equitability will likely be the focus of health as the COVID-19 pandemic focus moves from infection, death, and health infrastructure impact to one of global vaccination and recent posts by MSF reflect that messaging trend. The highest interaction rates are posts that highlight health disparity or calls attention to places where medical care is desperately needed. 
@@ -347,25 +347,25 @@ In June 2020, MSF called attention to Brazil and the rising number of cases appr
 **Croix-Rouge Française** is an advocacy NGO whose work extends into the areas of humanitarian, health, social welfare and training at the local and international levels (https://www.croix-rouge.fr/French-Red-Cross). The **Croix-Rouge Française** posts in the last year primarily focused on COVID-19.  The posts address issues related to psychological impact of confinement to prevent the spread of the virus, to testimonials of the efforts of the volunteers. But it was a video they posted to honor Grandmothers that garnered the **2.2K** shares. Many of the posts are informational or instructional with videos garnering the most reactions.
 
 ```{r, echo=FALSE, fig.cap="Figure 4: All is not lost. A Red Cross France video celebrating Grandmother’s Day was the health organization’s most liked and shared video of 2020.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/redcross_france.png")
+knitr::include_graphics("./images/redcross_france.png")
 ```
 
 **Médecins du Monde France** is an independent movement of international activists who “provide care, bear witness and support social change”.  **Médecins du Monde France** advocacy work focuses on community and individual level access to healthcare and universal health care activities (https://www.medecinsdumonde.org/en/about-us). **Médecins du Monde France** posts are predominantly powerful messages highlighting human and civil rights and disparity awareness and call to action both in France and the international community. COVID-19 posts were not as numerous as seen with other health sector organizations. The interaction rate is consistent for both posts and videos.
 
 ```{r, echo=FALSE, fig.cap="Figure 5: In March 2020, **Medicins du Monde France** highlighted human rights concerns for refugees at the Greece and Turkish border. This particular post received the highest number of shares of any **Medicins du Monde France** post during 2020.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/medecins_du_monde_france.png")
+knitr::include_graphics("./images/medecins_du_monde_france.png")
 ```
 
 **European Society of Cardiology** is a not-for-profit medical profession society of clinicians, scientists, nurses and allied health professionals who work in the field of cardiology whose mission is “to reduce the burden of cardiovascular disease” (https://www.escardio.org/The-ESC/Who-we-are)>
 
 ```{r, echo=FALSE, fig.cap="Figure 6: Evidence of COVID-19 pandemic staggering death toll even impacted the European Society of Cardiology, whose post dedicated to the memory of cardiologist, Prof. Maurizio Galderisi garnered the highest public engagements during 2020.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/eu_society_cardiology_france.png")
+knitr::include_graphics("./images/eu_society_cardiology_france.png")
 ```
 
 **AIDES France** is a nonprofit community based organization focused on HIV and AIDS advocacy and education. The highest interactions were the advocacy and education/ HIV prevention posts while videos were lower on the list. COVID-19 was mentioned but in a call-out to not forget about the *other* pandemic, HIV/AIDS. 
 
 ```{r, echo=FALSE, fig.cap="Figure 15: An **AIDES France** post from September 2020 focused on the decriminalization of drug-related offenses and instead providing support for drug abusers.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/aides_france.png")
+knitr::include_graphics("./images/aides_france.png")
 ```
 
 #### Health Sector Features {.tabset .tabset-pills}
@@ -424,14 +424,14 @@ Total number of **Educational** sector NGO mapped: **82** Paris-based NGOs
 The top performing Paris-based educational sector NGOs are those that highlight international collaborations, education forums, events, engagements that celebrate and promote Francophonie. French identity expands beyond the borders of France and this is apparent in the top performing education sector NGOs. There has been significant growth in Arab / Islamic cultural and education social media-based engagement. **Secours Islamique France** growth during 2020 as a potential outlier is substantial (average total interactions; highest page followers (362,737 and growth total numbers <span style="color: green;">(+31.52%, +86,943)</span>. Likewise, **Institut du Monde Arabe** has experienced significant growth and has the second highest level of public engagement. This could be indicative of the current political climate and experiences of the Arab population in France.
 
 ```{r, echo=FALSE, fig.cap="Figure 1: Educational sector interaction trends, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/education_intel.png")
+knitr::include_graphics("./images/education_intel.png")
 ```
 
 Overall, the 2020 **Educational** Sector had a significant interaction increase from 2019—from **828,332** total interactions to **1.49M** total interactions and an almost 2 million increase in video views despite the fact that there was little change in the interaction rate and average number of posts. This significant increase in interactions and views could be attributed to COVID-19 quarantine measures and social distancing rules experienced for a significant period in France and throughout the world.
 
 
 ```{r, echo=FALSE, fig.cap="Figure 2: Educational sector follower growth, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/education_growth.png")
+knitr::include_graphics("./images/education_growth.png")
 ```
 
 #### Educational Sector Leaders
@@ -439,32 +439,32 @@ knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapp
 **Organization internationale de Francophonie (OIF)** is an international organization that promotes cooperation between french-speaking countries with programs focused on the French language, education, cultural diversity, sustainable development, economy, democracy, gender equality, civil society and youth. The top post interactions were posts highlighting the 50th anniversary, the **International Organization of La Francophonie** and announced the launching a major meeting with 15-35 year olds from all over the Francophonie. Other top interactions were posts that shared cultural, educational, economic and equality and reflect OIF’s mission and purpose of their organization. 
 
 ```{r, echo=FALSE, fig.cap="Figure 3: A May 2020 OIF post promoting a meeting with the age demographic of 15-35 years old received the highest number of total engagements during 2020.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/oif_france.png")
+knitr::include_graphics("./images/oif_france.png")
 ```
 
 **Institut du Monde Arabe** is a cultural center to build ties between Arab countries, France and Europe through sharing history, culture, arts, language, science and religion. IMA posts informative events, news, singers and artists to showcase Arab culture and arts. The post with the most interactions are video posts which give short informative clips of upcoming events.  Other top interactive posts highlight various aspects of Arab culture including music, singers, which is the core of IMA’s mission.  
 
 ```{r, echo=FALSE, fig.cap="Figure 4: A September 2020 video message used to raise awareness for a humanitarian benefit in support of Lebanon was the most shared post of 2020 for the Institut du Monde Arabe.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/institut_du_monde_arabe_france.png")
+knitr::include_graphics("./images/institut_du_monde_arabe_france.png")
 ```
 
 **Fondation Napoleon** was started by Martial Lapeyre, an entrepreneur who had a fascination for Napoleonic history and started the charity as a way to preserve and share that history.  The charitable organization established a library, supports doctoral students by providing scholarships, and gives annual awards for historians (https://fondationnapoleon.org/en/about/history-statutes/). The average number of interactions are a few hundred likes; however, one of the top performing posts was spotlighted donations for the restoration of Napoleon's tomb.
 
 ```{r, echo=FALSE, fig.cap="Figure 5: A July 2020 post by **Fondation Napoleon** highlighted the removal of a statue of the empress Josephine from Fort de France in Martinique. In terms of engagement, the post significantly over-performed (**6.8x**) all prior content during 2020.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/fondation_napoleon.png")
+knitr::include_graphics("./images/fondation_napoleon.png")
 ```
 
 **International Science Council (ICS)** is a non-governmental organization that brings international, national and regional science and research associations from natural and social sciences together. ICS is the largest global science organization of its type. The focus of ICS on integrating science, research and international policy issues and the promotion of free and responsible science practice.  ICS focuses on multiple issues including poverty, urban health, disaster risk reduction, providing governments with science advice (https://council.science).  The post announcing science opportunities week had over **6K** interactions--well above the interactions that the council has received over the past year yet had only 68 shares. The preponderance of posts garner less than 50 interactions. ICS has over **15,000** followers and the low interaction could be indicative that followers read but do not interact with posts.
 
 ```{r, echo=FALSE, fig.cap="Figure 5: The **International Science Council** top post was the announcement of Fellowships, vacancies, awards, grants, and photo contests ", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/isc_france.png")
+knitr::include_graphics("./images/isc_france.png")
 ```
 
 
 **Jeux de la Francophonie** “Francophone Games”, are held every four years for the youth from among primarily Francophone countries. The games focus on artistry and sporting events to promote Francophone community unity, cooperation and solidarity. The games also contribute to development activities for the host nation and encourage meetings and exchanges among the participants. According to their website, “the Games of La Francophonie are also the initiators of large-scale projects involving the construction or repair of sports, cultural, road and accommodation facilities in the host city. These long-lasting facilities help change the landscape, improve the lives of citizens and enhance the tourism sector, especially when the Games are held in a developing country” https://www.jeux.francophonie.org/jeux/communaute-solidaire.
 
 ```{r, echo=FALSE, fig.cap="Figure 6: The top Jeux de la Francophone post with the highest interaction rate during 2020 announced the 2022 games in Kinshasa, Democratic Republic of Congo.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/jeux_dela_francophonie.png")
+knitr::include_graphics("./images/jeux_dela_francophonie.png")
 ```
 
 #### Educational Sector Features {.tabset .tabset-pills}
@@ -522,11 +522,11 @@ Total number of **Humanitarian Aid** sector NGO mapped: **11** Paris-based NGOs
 The efforts of Humanitarian Aid organizations are a mix of religious and non-profit organizations and posts reflect issues and crises impacting the international community—not those affecting the national or local level. Posts with the highest interactions are those that highlight the COVID-19 pandemic and humanitarian aid provided to address the needs in the most vulnerable populations. The pandemic has been particularly difficult for the poor and it is the humanitarian aid agencies who are filling the gaps in services. Religious based aid organizations have traditionally sought to insure the needs marginalized and poor through advocacy and donations.  This has been particularly captured in the 2020 posts.  Despite being the year of COVID-19 and the increase in basic needs of the vulnerable populations across the globe, overall interactions increased only by **12%** whereas **7%** and **8%** percent in 2018 and 2019 respectively.
 
 ```{r, echo=FALSE, fig.cap="Figure 1: Humanitarian Aid sector interaction trends, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/aid_intel.png")
+knitr::include_graphics("./images/aid_intel.png")
 ```
 
 ```{r, echo=FALSE, fig.cap="Figure 2: Humanitarian Aid sector follower growth, 2020-2021. Source: Facebook CrowdTangle", fig.align='center'}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/aid_growth.png")
+knitr::include_graphics("./images/aid_growth.png")
 ```
 
 #### Humanitarian Aid Sector Leaders 
@@ -534,31 +534,31 @@ knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapp
 **Secours Catholique-Caritas France (SC-CF)** (55,978 total interactions, 0.795% interaction rate, 0.51 average posts per day, 449,077 views on owned video,  40,859 page followers, growth <span style="color: green;">+20.78%; +7,030 </span>) is a religious charity organization whose mission is to strengthen local capacity to address poverty, exclusion and inequality in France and throughout the world. COVID-19 posts received the most interactions. SC-CF and top posts highlight the efforts, donations, and support  to address and alleviate poverty that has risen during the COVID-19 pandemic https://www.caritas.org/where-caritas-work/europe/france/.
 
 ```{r, echo=FALSE, fig.cap="Figure 3: **Secours Catholique** most shared post of 2020 focused on the socioeconomic effects of the COVID-19 pandemic with a fundraising drive.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/secours_catholique_france.png")
+knitr::include_graphics("./images/secours_catholique_france.png")
 ```
 
 **Action contre la Faim** (35,156 total interactions, 0.08% interaction rate, 0.43 average posts per day, 1.91M Views on Owned Video, 281,558 page followers, <span style="color: green;"> +2.42% growth; +6,659 </span>) is a nonprofit organization who addresses international hunger. The posts with the highest interactions are those that call attention to hunger and ways individuals can contribute to hunger reduction. Other top performing interactions were posts that highlighted efforts by volunteers who are the part of the effort to address hunger.
 
 ```{r, echo=FALSE, fig.cap="Figure 4: **Action contre la Faim (France)** top post for total engagements and shares created a call for action to establish a donation page for Facebook users birthdays. The most effective Facebook content for fundraising integrates donation buttons and links directly into the post.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/action_contre_lafaim_france.png")
+knitr::include_graphics("./images/action_contre_lafaim_france.png")
 ```
 
 **Secours Islamique France** (24,232 total interactions, 0.025% interaction rate, 0.81 avg. posts per day, 1.96M views on owned video, 362,737 page followers, <span style="color: green;">+31.52% growth +86,943 </span>) is a non-governmental organization addressing social and humanitarian assistance and development activities to make the most vulnerable people independent. **Secours Islamique France** has a robust humanitarian aid program that addresses food security, water and sanitation, poverty and inclusion, and protection of children through advocacy, emergency aid, and social programs.
 
 ```{r, echo=FALSE, fig.cap="Figure 5: The most shared post of **Secours Islamique France** featured a 2:04 minute video focused on solidarite during Ramadan 2020. Despite the high level of engagements, approximately **7.3%** of all interactions registered negative emojis (sad, angry). ", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/secous_islamique_france.png")
+knitr::include_graphics("./images/secous_islamique_france.png")
 ```
 
 **The Alliance for International Medical Action (ALIMA)** (23,820 total interactions, 0.408% interaction rate, 0.78 avg. posts per day, 555,940 views on owned video, 22,770 page followers, <span style="color: green;">+27.36% growth; +4,892 </span>) is a non-profit organization that responds to international humanitarian crises working in 13 countries worldwide, mainly in Africa, to provide free medical care to the world's most vulnerable people. ALIMA charges that “mothers and their children are usually the first victims of humanitarian crises'' and therefore, almost **80%** of their efforts focus on those needs (https://alima.ngo/en/what-we-do/). **ALIMA** implements health projects with national and local authorities to address mother-child health care needs from prevention through ongoing patient monitoring. Top performing interactions for 2020 were post on recruitment,  COVID-19, and other health crises affecting vulnerable populations.**ALIMA** had a **27%** increase in interactions in 2020. 
 
 ```{r, echo=FALSE, fig.cap="Figure 6: **ALIMA** campaign video Oxygen for Africa in response to the COVID-19 pandemic garnered more than 508.4K views.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/alima_france.png")
+knitr::include_graphics("./images/alima_france.png")
 ```
 
 **ACTED** (18,912 total interactions, 0.327% interaction rate, 0.36 avg. posts per day, 6,708 views on owned video, 48,424 page followers, <span style="color: green;">+23.66% growth; +9,265</span>) is an international independent nonprofit that operates in 39 countries and whose mission is to provide humanitarian and development support to vulnerable populations. **ACTED** recognizes that humanitarian aid is beyond emergency response and its program aims at addressing long term support that develops capacity beyond the crisis response and integrates a multidisciplinary approach to ensure interventions and programs are sustainable and useful (https://www.acted.org/en/what-we-do/our-programmes/). The top post for 2020 was a post paying homage on World Humanitarian Day to seven of their colleagues who were murdered in Niger on 9 August 2020.  The other top interactions were posts calling attention to humanitarian needs throughout many countries in the world.  COVID-19 related posts also received the most interactions in 2020.
 
 ```{r, echo=FALSE, fig.cap="Figure 7: **ACTED** posted an all black background in memory of the crimes committed against humanitarians in the field during #WorldHumanitarianDay. The post received the highest number of engagements of any ACTED post during 2020.", fig.align='center', out.height="50%", out.width="50%"}
-knitr::include_graphics("/Users/zackhadley/Desktop/ACSIA/Nonprofit\ Sector\ Mapping/ngo_report_paris/acted_france.png")
+knitr::include_graphics("./images/acted_france.png")
 ```
 
 #### Humanitarian Aid Sector Features {.tabset .tabset-pills}
